@@ -1,0 +1,30 @@
+.lau-container {
+  text-align: center;
+}
+
+#playCounter {
+  color: grey;
+}
+
+.play-name {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.play-note {
+  height: 20px;
+  font-size: 14px;
+  font-style: italic;
+  color: white;
+}
+
+.play-note:hover {
+  color: grey;
+}
+
+.play {
+  padding: 30px;
+}
+
+.lau-bg-color {
+  background-color: #5cb85c;
